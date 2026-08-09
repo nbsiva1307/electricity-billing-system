@@ -1,5 +1,11 @@
 # Electricity Billing System (AWT)
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Batch](https://img.shields.io/badge/Batch-2024--2028-blue)
+![Language](https://img.shields.io/badge/Language-Java-orange)
+![GUI](https://img.shields.io/badge/GUI-Java%20AWT-yellow)
+![Project Type](https://img.shields.io/badge/Project-Academic-purple) 
+
 A Java AWT-based desktop application for generating electricity bills using customer details and meter readings. The system calculates chargeable units, applies slab-based rates, predicts next-month usage and bill amount, and provides a printable bill.
 
 ## Project Overview
