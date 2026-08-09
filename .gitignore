@@ -1,0 +1,43 @@
+# Java compiled files
+*.class
+
+# Java build/output folders
+bin/
+out/
+build/
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# NetBeans files
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# IntelliJ files
+*.iws
+*.ipr
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
+
+# Java crash logs
+hs_err_pid*.log
